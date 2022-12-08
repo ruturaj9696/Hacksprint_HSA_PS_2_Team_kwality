@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: white;
+}
+ul:hover li{
+    opacity: 0.2;
+    filter: blur(0.2px);
+}
+ul li:hover{
+    opacity: 1;
+    color: deeppink;
+}
